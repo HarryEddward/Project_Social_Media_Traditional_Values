@@ -19,7 +19,7 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 
 
 
-### En este proyecto, haremos con las tecnologias:
+## En este proyecto, haremos con las tecnologias:
 Backend:
 
   - API:

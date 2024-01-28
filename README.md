@@ -42,7 +42,7 @@ Backend:
     - Respositorio Privado Github (Personas con permiso exlusivo de edicción de codigo)
  
   - Edición para el desarrollo:
-    - Git
+    - Git y Github Actions
   
   - Base de datos:
 

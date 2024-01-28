@@ -21,6 +21,7 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 .
 .
 ### | ⚠️ **Al descargar el proyecto tenéis que subir los archivos del proyecto, y no con las librerias como node_modules o venv** ⚠️ |
+### | ⚠️ **No se aceptara ningún codigo bien documentado y explicado, por mi propia seguridad de ejecucción** ⚠️ |
 .
 .
 ## 🧑‍💻 En este proyecto, haremos con las tecnologias:
@@ -33,15 +34,15 @@ Backend:
     - Python (Por defecto)
     - Rust
     - Java
-    - C++ (Úso CPython para funciona o metodos en forma directa direcamente en Python)
-    - Bash (Solo úso para gestionar el OS en entornos de UNIX)
+    - 📍 C++ (Úso CPython para funciona o metodos en forma directa direcamente en Python)
+    - 📍 Bash (Solo úso para gestionar el OS en entornos de UNIX)
   
   - Servidor de balanceo:
     - Nginx
 
   - Automatización de servidores (CD/CI):
     - Jenkins
-    - Respositorio Privado Github (Personas con permiso exlusivo de edicción de codigo)
+    - 📍 Respositorio Privado Github (Personas con permiso exlusivo de edicción de codigo)
  
   - Edición para el desarrollo:
     - Git y Github Actions
@@ -54,7 +55,7 @@ Backend:
       - Azure Blob Storage
 
     - Datos:
-      - MongoDB (MongoAtlas)
+      - 📍 MongoDB (MongoAtlas)
 
 
 Frontend:

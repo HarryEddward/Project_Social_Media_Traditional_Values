@@ -30,10 +30,10 @@ Backend:
     - Python [FastAPI, Pydantic, PyJWT]
 
   - Scripts para hacer úso:
+    - Python (Por defecto)
     - Rust
-    - Python
     - Java
-    - C++
+    - C++ (Úso CPython para funciona o metodos en forma directa direcamente en Python)
     - Bash (Solo úso para gestionar el OS en entornos de UNIX)
   
   - Servidor de balanceo:

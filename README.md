@@ -1,9 +1,9 @@
 # Project_Social_Media_Traditional_Values
 
 Proyecto de una red social sobre contenido sobre los buenos valores o valores tradicionales.
-.
-.
-.
+
+
+
 .
 ## Como hacemos la red social?
 
@@ -13,10 +13,10 @@ Aparte si implementamos videos en la red social **deberemos transcodificar** los
 o hacerse uso un formato común .**mp4 o .webm** (en caso de hacerse úso exclusivo en web)
 
 Como es público y en el **entorno de desarrollo** debemos de probar en nuestro pc, haremos que tengan **nombres únicos** para luego en **producción** poder cambiarlo por la base de datos por los valores que se necesiten de verdad
-.
-.
-.
-.
+
+
+
+
 .
 
 ## En este proyecto, haremos con las tecnologias:

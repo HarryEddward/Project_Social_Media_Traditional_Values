@@ -29,6 +29,7 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 |--------|--------|
 |    Dropbox    |    https://www.dropbox.com/scl/fi/0bjm4frj2zftvn60swyvq/LEEME.paper?rlkey=5qz0dfcadwe7i2ema4bvc2un3&dl=0    |
 |    Notion    |    https://www.notion.so/Project_Social_Media_Traditional_Values-9e310d75f0a94754ac5ae51a5b98bc4b?pvs=4    |
+|    Whatssap  | https://chat.whatsapp.com/FCbfwawyJJUGkrza0An3Zx |
 
 
 

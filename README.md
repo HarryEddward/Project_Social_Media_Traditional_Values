@@ -24,6 +24,15 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 ### | ⚠️ **No se aceptara ningún codigo bien documentado y explicado, por mi propia seguridad de ejecucción** ⚠️ |
 .
 .
+
+|  | Link |
+|--------|--------|
+|    Dropbox    |    https://www.dropbox.com/scl/fi/0bjm4frj2zftvn60swyvq/LEEME.paper?rlkey=5qz0dfcadwe7i2ema4bvc2un3&dl=0    |
+|    Notion    |    https://www.notion.so/Project_Social_Media_Traditional_Values-9e310d75f0a94754ac5ae51a5b98bc4b?pvs=4    |
+
+
+
+
 ## 🧑‍💻 En este proyecto, haremos con las tecnologias:
 Backend:
 

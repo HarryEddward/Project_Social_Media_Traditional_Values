@@ -20,7 +20,8 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 
 
 
-| **Al descargar el proyecto tenéis que subir los archivos del proyecto, y no con las librerias como node_modules o venv** |
+| ⚠️ **Al descargar el proyecto tenéis que subir los archivos del proyecto, y no con las librerias como node_modules o venv** ⚠️ |
+
 
 ## 🧑‍💻 En este proyecto, haremos con las tecnologias:
 Backend:

@@ -2,7 +2,7 @@
 
 Proyecto de una red social sobre contenido sobre los buenos valores o valores tradicionales.
 
-
+.
 
 
 ## Como hacemos la red social?
@@ -15,7 +15,7 @@ o hacerse uso un formato común .mp4 o .webm (en caso de hacerse úso exclusivo 
 Como es público y en el entorno de desarrollo debemos de probar en nuestro pc, haremos que tengan nombres únicos para luego en producción poder cambiarlo por la base de datos por los valores que se necesiten de verdad
 
 
-
+.
 
 
 

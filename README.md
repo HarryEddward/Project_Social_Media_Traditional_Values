@@ -4,7 +4,7 @@ Proyecto de una red social sobre contenido sobre los buenos valores o valores tr
 
 
 
-.
+
 ## Como hacemos la red social?
 
 Compartiré en **Notion** una lista de tareas por hacer, y luego yo las reviasre y las comprobare si realmente funcionan.
@@ -17,7 +17,6 @@ Como es público y en el **entorno de desarrollo** debemos de probar en nuestro 
 
 
 
-.
 
 ## En este proyecto, haremos con las tecnologias:
 Backend:
